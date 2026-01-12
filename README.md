@@ -7,7 +7,7 @@ This repository contains the supplementary material associated with the article:
 
 **[An Efficient Framework for Automatic Carbon Star Detection Using Machine Learning Techniques
 on LAMOST DR9 and Gaia DR32]**  
-J. R. Muñoz Luque et al. (2025)
+J. R. Muñoz Luque et al. (2026)
 
 ## Contents
 
